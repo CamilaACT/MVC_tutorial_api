@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\MVC tutorial\\MVC_tutoriall\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93ADC4D1-FEE2-453D-9B72-177587721540}|MVC_tutoriall.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\mvc tutorial\\mvc_tutoriall\\controllers\\gastocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93ADC4D1-FEE2-453D-9B72-177587721540}|MVC_tutoriall.csproj|solutionrelative:controllers\\gastocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93ADC4D1-FEE2-453D-9B72-177587721540}|MVC_tutoriall.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\mvc tutorial\\mvc_tutoriall\\util\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93ADC4D1-FEE2-453D-9B72-177587721540}|MVC_tutoriall.csproj|solutionrelative:util\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93ADC4D1-FEE2-453D-9B72-177587721540}|MVC_tutoriall.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\mvc tutorial\\mvc_tutoriall\\data\\dao\\c_base_datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93ADC4D1-FEE2-453D-9B72-177587721540}|MVC_tutoriall.csproj|solutionrelative:data\\dao\\c_base_datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93ADC4D1-FEE2-453D-9B72-177587721540}|MVC_tutoriall.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\mvc tutorial\\mvc_tutoriall\\model\\proc\\p_gasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93ADC4D1-FEE2-453D-9B72-177587721540}|MVC_tutoriall.csproj|solutionrelative:model\\proc\\p_gasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93ADC4D1-FEE2-453D-9B72-177587721540}|MVC_tutoriall.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\mvc tutorial\\mvc_tutoriall\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93ADC4D1-FEE2-453D-9B72-177587721540}|MVC_tutoriall.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93ADC4D1-FEE2-453D-9B72-177587721540}|MVC_tutoriall.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\mvc tutorial\\mvc_tutoriall\\model\\response\\respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93ADC4D1-FEE2-453D-9B72-177587721540}|MVC_tutoriall.csproj|solutionrelative:model\\response\\respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93ADC4D1-FEE2-453D-9B72-177587721540}|MVC_tutoriall.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\mvc tutorial\\mvc_tutoriall\\model\\request\\r_fechas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93ADC4D1-FEE2-453D-9B72-177587721540}|MVC_tutoriall.csproj|solutionrelative:model\\request\\r_fechas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 887,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\MVC tutorial\\MVC_tutoriall\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\MVC tutorial\\MVC_tutoriall\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T00:22:35.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "r_fechas.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\MVC tutorial\\MVC_tutoriall\\model\\request\\r_fechas.cs",
+              "RelativeDocumentMoniker": "model\\request\\r_fechas.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\MVC tutorial\\MVC_tutoriall\\model\\request\\r_fechas.cs",
+              "RelativeToolTip": "model\\request\\r_fechas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T22:59:41.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "p_Gasto.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\MVC tutorial\\MVC_tutoriall\\model\\proc\\p_Gasto.cs",
+              "RelativeDocumentMoniker": "model\\proc\\p_Gasto.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\MVC tutorial\\MVC_tutoriall\\model\\proc\\p_Gasto.cs",
+              "RelativeToolTip": "model\\proc\\p_Gasto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T22:39:44.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GastoController.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\MVC tutorial\\MVC_tutoriall\\Controllers\\GastoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GastoController.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\MVC tutorial\\MVC_tutoriall\\Controllers\\GastoController.cs",
+              "RelativeToolTip": "Controllers\\GastoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T22:33:24.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\MVC tutorial\\MVC_tutoriall\\util\\Conexion\\Conexion.cs",
+              "RelativeDocumentMoniker": "util\\Conexion\\Conexion.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\MVC tutorial\\MVC_tutoriall\\util\\Conexion\\Conexion.cs",
+              "RelativeToolTip": "util\\Conexion\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T22:29:25.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "c_base_datos.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\MVC tutorial\\MVC_tutoriall\\data\\DAO\\c_base_datos.cs",
+              "RelativeDocumentMoniker": "data\\DAO\\c_base_datos.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\MVC tutorial\\MVC_tutoriall\\data\\DAO\\c_base_datos.cs",
+              "RelativeToolTip": "data\\DAO\\c_base_datos.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAADwv30AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T22:31:33.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Respuesta.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\MVC tutorial\\MVC_tutoriall\\model\\response\\Respuesta.cs",
+              "RelativeDocumentMoniker": "model\\response\\Respuesta.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\MVC tutorial\\MVC_tutoriall\\model\\response\\Respuesta.cs",
+              "RelativeToolTip": "model\\response\\Respuesta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T22:30:48.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 184,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
